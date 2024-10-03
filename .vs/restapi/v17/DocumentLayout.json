@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\judos\\Desktop\\restapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\application\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\application\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\application\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\application\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\application\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\application\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\application\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\application\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\application\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\application\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|c:\\users\\judos\\desktop\\restapi\\restapi\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B99747-E9A4-4BA0-8F53-209E3A9BAAEF}|restapi\\restapi.csproj|solutionrelative:restapi\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Commands\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "restapi\\Application\\Commands\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Commands\\DeleteProductCommand.cs",
+              "RelativeToolTip": "restapi\\Application\\Commands\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:42:19.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "restapi\\Application\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "restapi\\Application\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:40:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Commands\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "restapi\\Application\\Commands\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Commands\\UpdateProductCommand.cs",
+              "RelativeToolTip": "restapi\\Application\\Commands\\UpdateProductCommand.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:41:24.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "restapi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "restapi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:37:59.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\appsettings.json",
+              "RelativeDocumentMoniker": "restapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\appsettings.json",
+              "RelativeToolTip": "restapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T12:16:07.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Startup.cs",
+              "RelativeDocumentMoniker": "restapi\\Startup.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Startup.cs",
+              "RelativeToolTip": "restapi\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:12:11.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Program.cs",
+              "RelativeDocumentMoniker": "restapi\\Program.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Program.cs",
+              "RelativeToolTip": "restapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:51:54.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "restapi\\API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "restapi\\API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:14:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "restapi.csproj",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\restapi.csproj",
+              "RelativeDocumentMoniker": "restapi\\restapi.csproj",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\restapi.csproj",
+              "RelativeToolTip": "restapi\\restapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T12:11:48.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "restapi\\Application\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "restapi\\Application\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:43:32.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "restapi\\Application\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Application\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "restapi\\Application\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:45:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "restapi\\Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\judos\\Desktop\\restapi\\restapi\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "restapi\\Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:32:00.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
